@@ -14,10 +14,10 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
+### Coffee-Shop-Sales-Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
-###Marketing-Campaign-Performance-ROI-Optimization
+### Marketing-Campaign-Performance-ROI-Optimization
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Healthcare Provider Analysis Project
