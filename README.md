@@ -15,13 +15,13 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Coffee-Shop-Sales-Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+*A data analysis project focused on evaluating sales performance, customer purchasing patterns, and product demand within a coffee shop business. Using Excel, data was cleaned and transformed to track key metrics such as total revenue, peak sales hours, and top-selling products. The analysis revealed that a small group of products generated the majority of revenue, with clear peak periods during mornings and weekends. These insights support better inventory planning, targeted promotions, and staffing optimization.*
 
 ### Marketing-Campaign-Performance-ROI-Optimization
-*A brief description of your project, the tools used, and the key insights derived.*
+*This project analyzes the effectiveness of multiple marketing campaigns by measuring return on investment (ROI), conversion rates, and customer engagement. Using Power BI and DAX, campaign data was modeled to compare performance across channels and audience segments. The analysis showed that certain campaigns delivered significantly higher ROI while others underperformed despite high spend. Insights from this project help in reallocating marketing budgets, improving targeting strategies, and maximizing campaign profitability.*
 
 ### Healthcare Provider Analysis Project
-*A brief description of your project, the tools used, and the key insights derived.*
+*This project examines healthcare operational and financial data to identify trends in patient visits, provider performance, and revenue generation (in £). Using Power BI, Power Query, and DAX, the dataset was analyzed to uncover low patient retention, uneven provider workload, and strong reliance on insurance-based revenue. The findings highlight opportunities to improve patient retention, optimize resource allocation, and diversify revenue streams, ultimately enhancing both efficiency and service quality.*
 
 
 ## 🛠️ Skills
