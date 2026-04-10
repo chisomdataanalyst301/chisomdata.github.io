@@ -24,10 +24,9 @@ This template is set up to showcase your best work. You can easily customize the
 *This project examines healthcare operational and financial data to identify trends in patient visits, provider performance, and revenue generation (in £). Using Power BI, Power Query, and DAX, the dataset was analyzed to uncover low patient retention, uneven provider workload, and strong reliance on insurance-based revenue. The findings highlight opportunities to improve patient retention, optimize resource allocation, and diversify revenue streams, ultimately enhancing both efficiency and service quality.*
 
 ### Personal Financial Dashboard Analysis
- *This project analyzes personal financial data from 2023–2024 to uncover patterns in income, expenses, and spending behavior. Using structured transaction data, the analysis highlights cash flow trends, identifies major cost drivers, and evaluates overall financial health.*
-
+ *This project analyzes personal financial data from 2023–2024 to uncover patterns in income, expenses, and spending behavior. Using structured transaction data, the analysis highlights cash flow trends, identifies major cost drivers, and evaluates overall financial health.
 The goal is to move beyond raw numbers and answer a simple question:
-where is the money actually going, and how can it work better?
+where is the money actually going, and how can it work better?*
 
 ## 🛠️ Skills
 
